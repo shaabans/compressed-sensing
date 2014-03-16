@@ -14,4 +14,4 @@ Have a look at the code to see what's going on and let me know how you improve i
 
 Basic Idea
 ----------
-The first example shows how well a variety of methods of solving an underdetermined system do at coming up with sparse representations.  The second example demonstrates the reconstruction of a signal using only 10% of the orignal data. 
+The first example shows how well a variety of methods of solving an underdetermined system do at coming up with sparse representations.  The second example demonstrates the reconstruction of a signal using only randomly chosen samples of 10% of the orignal data. 
